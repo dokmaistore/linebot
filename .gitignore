@@ -1,0 +1,10 @@
+/.env
+/.history
+.prettierrc
+.prettierignore
+/node_modules
+package-lock.json
+security.js
+linebot.js
+encrypt
+wrapper.js
